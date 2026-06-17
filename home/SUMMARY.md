@@ -5,5 +5,3 @@
 * [Visitor authentication model](visitor-authentication-model.md)
 * [Migration and markdown workflow](migration-and-markdown-workflow.md)
 * [Localization with Crowdin](localization-with-crowdin.md)
-* [Plan recommendation](plan-recommendation.md)
-
