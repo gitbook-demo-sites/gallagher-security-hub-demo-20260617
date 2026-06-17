@@ -28,15 +28,15 @@ Bring product knowledge, partner resources, developer references, and internal e
 </thead>
 <tbody>
 <tr>
-<td><a href="https://app.gitbook.com/s/XSPACE_PRODUCT/">Product knowledge</a></td>
+<td><a href="https://app.gitbook.com/s/gRRDSm2DwCDLwMRyzG5Y/">Product knowledge</a></td>
 <td>Public how-to content for end users, installers, operators, and site administrators.</td>
 </tr>
 <tr>
-<td><a href="https://app.gitbook.com/s/XSPACE_PARTNER/">Partner Hub</a></td>
+<td><a href="https://app.gitbook.com/s/Y7jLl5j6OSvNw60jr9zF/">Partner Hub</a></td>
 <td>Commercial resources, channel partner workflows, high security notes, and technology partner SDKs.</td>
 </tr>
 <tr>
-<td><a href="https://app.gitbook.com/s/XSPACE_STAFF/">Staff workspace</a></td>
+<td><a href="https://app.gitbook.com/s/8D3g5GgABxosgw7zb0g1/">Staff workspace</a></td>
 <td>Internal migration playbooks, governance, review ownership, and demo notes for Gallagher teams.</td>
 </tr>
 </tbody>
